@@ -1,13 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
+!pip install pyautogui cvzone opencv-python mediapipe
 
-# In[ ]:
-
-
-get_ipython().system('pip install pyautogui cvzone opencv-python mediapipe')
-
-
-# In[1]:
 
 
 import pyautogui
@@ -60,7 +52,6 @@ while True:
     cv2.waitKey(1)
 
 
-# In[ ]:
 
 
 
